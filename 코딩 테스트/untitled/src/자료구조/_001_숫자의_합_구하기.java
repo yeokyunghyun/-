@@ -16,6 +16,7 @@ public class _001_숫자의_합_구하기 {
         for (int i = 0; i < testcase; i++) {
             System.out.println("이거를 바꿨어");
             System.out.println("2번째이거를 바꿨어");
+            System.out.println("3번째이거를 바꿨어");
             int total = 0;
             total = 1;
             int numberOfNum = Integer.parseInt(br.readLine());
